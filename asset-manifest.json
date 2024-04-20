@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fuzu-assignment-cra/static/css/main.f1d7a175.css",
+    "main.js": "/fuzu-assignment-cra/static/js/main.926efe05.js",
+    "static/media/poppins-latin-400-italic.woff": "/fuzu-assignment-cra/static/media/poppins-latin-400-italic.32d83fc8640f458da164.woff",
+    "static/media/poppins-latin-400-normal.woff": "/fuzu-assignment-cra/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-italic.woff2": "/fuzu-assignment-cra/static/media/poppins-latin-400-italic.ed357fa1fa06a3e00d46.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/fuzu-assignment-cra/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-italic.woff": "/fuzu-assignment-cra/static/media/poppins-latin-ext-400-italic.305f013ca32dd97e2f0b.woff",
+    "static/media/poppins-latin-ext-400-normal.woff": "/fuzu-assignment-cra/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/poppins-latin-ext-400-italic.woff2": "/fuzu-assignment-cra/static/media/poppins-latin-ext-400-italic.3fb005372627c0129b48.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/fuzu-assignment-cra/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "index.html": "/fuzu-assignment-cra/index.html",
+    "main.f1d7a175.css.map": "/fuzu-assignment-cra/static/css/main.f1d7a175.css.map",
+    "main.926efe05.js.map": "/fuzu-assignment-cra/static/js/main.926efe05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d7a175.css",
+    "static/js/main.926efe05.js"
+  ]
+}
