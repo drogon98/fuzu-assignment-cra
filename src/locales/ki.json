@@ -1,0 +1,13 @@
+{
+  "app.unit": "Selsiasi",
+  "app.rain": "Mvua",
+  "app.drizzle": "Manyunyu",
+  "app.thunderstorm": "Mvua ya ngurumo na radi",
+  "app.clear": "Anga safi",
+  "app.clouds": "Mawingu",
+  "app.pressure": "Shinikizo La Anga",
+  "app.humidity": "Unyevunyevu",
+  "app.wind": "Upepo",
+  "app.cloudCover": "Mawingu",
+  "app.current": "Sasa"
+}

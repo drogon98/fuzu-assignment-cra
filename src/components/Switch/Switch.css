@@ -1,0 +1,19 @@
+.wrapper {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: flex-end;
+  color: #fff;
+}
+
+.wrapper button {
+  background-color: inherit;
+  color: #fff;
+  border: none;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.active-locale {
+  font: bold !important;
+  color: #0cf !important;
+}

@@ -1,0 +1,13 @@
+{
+  "app.unit": "Celsius",
+  "app.rain": "Rain",
+  "app.drizzle": "Drizzle",
+  "app.thunderstorm": "Thunderstorm",
+  "app.clear": "Clear Sky",
+  "app.clouds": "Clouds",
+  "app.pressure": "Pressure",
+  "app.humidity": "Humidity",
+  "app.wind": "Wind",
+  "app.cloudCover": "Cloud Cover",
+  "app.current": "Current"
+}
