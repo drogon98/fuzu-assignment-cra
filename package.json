@@ -2,6 +2,9 @@
   "name": "fuzu-cra",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "@fontsource/poppins": "^5.0.14",
     "@testing-library/jest-dom": "^5.17.0",
