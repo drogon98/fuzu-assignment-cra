@@ -23,6 +23,6 @@ REACT_APP_OW_API_KEY=XXX`
 
 If your app is already running, restart it for the environemt variable to be read by the system. Otherwise start the app by running `npm start` or `yarn start`. You can view the app in your browser by visiting [http://localhost:3000](http://localhost:3000)
 
-## Start The AppTesting
+## Testing
 
 To test the app run `npm test` or `yarn test`
