@@ -76,7 +76,6 @@ function App() {
           }
         }, 600000);
       } catch (error) {
-        console.log("message", error.message);
         if (error.message) {
           if (error.message.includes("Failed to fetch")) {
             setError("Offline");

@@ -29,7 +29,7 @@ export default function WeatherIcon() {
       return <Rain />;
     } else if (800 === group) {
       return <Sunny />;
-    } else if (group > 800 && group < 600) {
+    } else if (group > 800 && group < 900) {
       return <Cloudy />;
     } else {
       return null;

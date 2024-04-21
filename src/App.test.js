@@ -54,8 +54,7 @@ describe("App", () => {
       </Router>
     );
 
-    const loading = await screen.findByText(/Loading/i);
-    expect(loading).toBeInTheDocument();
+    expect(await screen.findByText(/Loading/i)).toBeInTheDocument();
   });
   test("renders current weather data", async () => {
     render(
